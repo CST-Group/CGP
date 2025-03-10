@@ -1,0 +1,7 @@
+{
+    "percentage_correct_ideas_converted": 99.71986553545702,
+    "percentage_fully_plan_correct": 97.39875140067232,
+    "percentage_diversity_correct_plan": 82.71812080536914,
+    "average_bleu_score": 0.9962090386604358,
+    "average_jaccard_diversity_score": 0.9791710813473532
+}
