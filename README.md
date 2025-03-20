@@ -6,14 +6,14 @@ A hybrid automated planning model based on Vector Embedding Representations and 
 
 The **Cognitive Generative Planner (CGP)** is an innovative hybrid planning system that integrates **symbolic** and **subsymbolic representations**, combining the expressiveness of symbolic reasoning with the generalization power of neural networks.
 
-By leveraging **Ideas** (symbolic structures) and their vectorized counterpart **Vector Ideas**, CGP enables creative, scalable, and adaptive planning. The system is driven by a **Transformer-based neural architecture** and enhanced by a symbolic search component: the **Symbolic Beam Search (SBS)** algorithm.
+By leveraging **Ideas** (symbolic structures) and their vectorized counterpart **Vector Ideas**, CGP enables creative, scalable, and adaptive planning. The system is driven by a **Transformer-based neural architecture** and enhanced by a symbolic search component: the **Situated Beam Search (SBS)** algorithm.
 
 ## 🚀 Key Features
 
 - Hybrid planning using **Ideas + Vector Ideas**
 - Symbolic and subsymbolic knowledge integration
 - **Transformer-based neural network**
-- Novel **Symbolic Beam Search Algorithm (SBS)**
+- Novel **Situated Beam Search Algorithm (SBS)**
 - Creative and explainable plan generation
 - Evaluation in complex simulated environments
 
